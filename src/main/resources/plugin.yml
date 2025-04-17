@@ -1,0 +1,4 @@
+name: bramKit
+version: '1.0'
+main: bramcraft.net.bramKit.BramKit
+api-version: '1.21'
